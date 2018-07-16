@@ -5,6 +5,7 @@
  *      Author: user
  */
 //getinfo.cpp - ввод и вывод
+//brtanch probe
 #include <iostream>
 int main()
 {
